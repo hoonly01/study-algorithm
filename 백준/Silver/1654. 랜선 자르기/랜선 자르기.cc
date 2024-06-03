@@ -8,20 +8,19 @@ int main()
     long long int len;
     long long int max_len;
 
-    long long int cnt;
+    long long cnt;
     long long int first, last, mid;
 
     cin >> k >> n;
     line = new long long int[k];
 
+    first = 1;
     for (int i = 0; i < k; i++)
     {
         cin >> len;
         line[i] = len;
         last += len;
     }
-
-    first = 1;
 
     while(first <= last)
     {
