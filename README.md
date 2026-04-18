@@ -5,11 +5,13 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0125-valid-palindrome](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0049-group-anagrams](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
@@ -32,4 +34,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
