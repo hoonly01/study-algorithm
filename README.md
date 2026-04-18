@@ -23,6 +23,7 @@
 | [0001-two-sum](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0561-array-partition](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Easy/0561-array-partition/) | Easy |
 | [0819-most-common-word](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
 ## Hash Table
@@ -53,4 +54,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Easy/0561-array-partition/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
