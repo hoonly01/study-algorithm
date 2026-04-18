@@ -19,11 +19,13 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0819-most-common-word](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0819-most-common-word](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
 ## Counting
