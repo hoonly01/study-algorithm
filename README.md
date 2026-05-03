@@ -18,6 +18,7 @@
 | [0344-reverse-string](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0819-most-common-word](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Easy/1408-string-matching-in-an-array/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +29,7 @@
 | [0238-product-of-array-except-self](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0561-array-partition](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Easy/0561-array-partition/) | Easy |
 | [0819-most-common-word](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
+| [1408-string-matching-in-an-array](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Easy/1408-string-matching-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,4 +67,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1408-string-matching-in-an-array](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Easy/1408-string-matching-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
