@@ -17,6 +17,7 @@
 | [0125-valid-palindrome](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Easy/0344-reverse-string/) | Easy |
 | [0819-most-common-word](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Easy/0819-most-common-word/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,4 +61,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/hoonly01/study-algorithm/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
