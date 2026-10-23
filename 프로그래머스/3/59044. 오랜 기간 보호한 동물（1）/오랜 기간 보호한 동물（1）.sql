@@ -1,0 +1,9 @@
+-- 코드를 입력하세요
+SELECT  i.NAME, i.DATETIME
+FROM    ANIMAL_INS as i
+WHERE   i.ANIMAL_ID NOT IN(
+                        SELECT  ANIMAL_ID
+                        FROM    ANIMAL_OUTS
+                    )
+ORDER BY    i.DATETIME
+LIMIT   3
